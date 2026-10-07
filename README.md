@@ -57,6 +57,22 @@ View the proportion of required skills that are already present in the resume.
 ### 📑 PDF Report
 Generate a polished PDF report containing the analysis results, skill match, recommendations, and final takeaway.
 
+## 📸 Application Preview
+
+### 🏠 Landing Page
+![CareerLens Home](assets/screenshots/Home.png)
+
+### 📊 Resume Analysis
+![CareerLens Analysis](assets/screenshots/Analysis.png)
+
+### 👤 Recruiter Snapshot
+![Recruiter Snapshot](assets/screenshots/recruiter_snapshot.png)
+
+### 📈 Skill Coverage
+![Skill Coverage](assets/screenshots/Skill_coverage.png)
+
+### 📄 PDF Report
+![PDF Report](assets/screenshots/report.png)
 ---
 
 ## 🖥️ Application Workflow
