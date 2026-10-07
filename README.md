@@ -1,4 +1,5 @@
 # CareerLens — Intelligent Resume & Job Match Analyzer
+🚀 **Live Demo:** https://careerlense.streamlit.app/
 
 > Turn your resume into a smarter job application.
 
