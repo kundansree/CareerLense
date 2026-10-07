@@ -1,0 +1,109 @@
+{
+    "Programming": [
+        "Python",
+        "Java",
+        "C",
+        "C++",
+        "C#",
+        "JavaScript",
+        "TypeScript",
+        "Go",
+        "Rust",
+        "PHP",
+        "Ruby",
+        "Kotlin",
+        "Swift"
+    ],
+
+    "Web Development": [
+        "HTML",
+        "HTML5",
+        "CSS",
+        "CSS3",
+        "Bootstrap",
+        "React",
+        "Angular",
+        "Vue.js",
+        "Node.js",
+        "Express.js",
+        "Django",
+        "Flask",
+        "Responsive Web Design"
+    ],
+
+    "Database": [
+        "SQL",
+        "MySQL",
+        "PostgreSQL",
+        "MongoDB",
+        "Oracle",
+        "SQLite",
+        "Redis",
+        "DBMS",
+        "Database Management"
+    ],
+
+    "Data & Machine Learning": [
+        "Pandas",
+        "NumPy",
+        "Matplotlib",
+        "Seaborn",
+        "Scikit-learn",
+        "Machine Learning",
+        "Deep Learning",
+        "Artificial Intelligence",
+        "Natural Language Processing",
+        "NLP",
+        "TensorFlow",
+        "PyTorch",
+        "Data Analysis",
+        "Data Science"
+    ],
+
+    "Tools & DevOps": [
+        "Git",
+        "GitHub",
+        "GitLab",
+        "Docker",
+        "Kubernetes",
+        "VS Code",
+        "Jupyter",
+        "LaTeX",
+        "Linux",
+        "AWS",
+        "Azure",
+        "Google Cloud",
+        "CI/CD"
+    ],
+
+    "Core Computer Science": [
+        "Data Structures",
+        "Algorithms",
+        "Data Structures & Algorithms",
+        "Object-Oriented Programming",
+        "OOP",
+        "DBMS",
+        "Computer Networks",
+        "Operating Systems",
+        "Software Engineering",
+        "Problem Solving"
+    ],
+
+    "Cybersecurity": [
+        "Cybersecurity",
+        "Network Security",
+        "Wireshark",
+        "SIEM",
+        "Firewalls",
+        "Vulnerability Assessment",
+        "Penetration Testing",
+        "Incident Response",
+        "TCP/IP",
+        "Identity and Access Management",
+        "IAM",
+        "Splunk",
+        "Microsoft Sentinel",
+        "Kali Linux",
+        "Cloud Security"
+    ]
+}
